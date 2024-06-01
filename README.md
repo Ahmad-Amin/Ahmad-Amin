@@ -3,7 +3,7 @@ Hello..,👋 This is Ahmad Amin.., A software developer and having the great pas
 * I had worked in multiple projects. I had created the search engine in java., using the core concepts of Object-oriented programming that can parse and get the result in less then a second. The total number of documents that my program parse through are over 80,000.
 * I am quite a fond of., i.e., I like to work on the Data Structures and Algorithm analysis. Actively take part in the competitive programming competition like Google hash code., code jam, HackerRank etc. 
 * Used the cloudinary on some of my rails application (to upload images/avatar) to familiarize myself with the basic cloud storage and how the things work
-* I have create some of the micro-saas product as well. one of the product is 'custom-form-builder'. Check the repository. basically, the concept is to make the graphs visually then export the code as a React component
+* I have created some of the micro-saas product and npm packages as well. one of the product is 'custom-form-builder'. Check the repository. basically, the concept is to make the graphs visually then export the code as a React component
  
 A details explanation of these projects are listed below (in project section)
 
