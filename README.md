@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Amin 👋
 
-I'm a Software Developer with 4+ years of experience building full-stack web applications, SaaS platforms, dashboards, automation tools, and production-ready business systems.
+I'm a Software Developer with over 5+ years of experience building full-stack web applications, SaaS platforms, dashboards, automation tools, and production-ready business systems.
 
 I mostly work with **JavaScript/TypeScript**, **React**, **Next.js**, **Nuxt**, **Node.js**, **Express**, **MongoDB**, and modern DevOps tools.
 
